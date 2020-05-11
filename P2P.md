@@ -1,3 +1,4 @@
+# ![](https://img.shields.io/badge/status-wip-orange.svg?style=flat-square) P2P Network Protocol
 ## Features
 
 By itself, carrier is a low-level, stateless, concurrent networking library that easily allows you to incorporate fundamental features any modern p2p application needs such as:

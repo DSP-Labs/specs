@@ -18,7 +18,7 @@ Out of its own low-level constructs, carrier additionally comes bundled with a h
 5) cryptographic identity schemes (Ed25519 w/ EdDSA signatures),
 6) and authenticated encryption schemes (AES-256 GCM AEAD).
 
-## Componenet
+## Component
 Application layer can define component by themself, which is an interface as follow:
 ```go
 // ComponentInterface is used to proxy callbacks to a particular Component instance.

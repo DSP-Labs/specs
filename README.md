@@ -21,6 +21,7 @@ The specs contained in this repository are:
 - **DSP Protocol:**
   - [Protocol Architecture Overview](./ARCHITECTURE.md) - the top-level spec and the stack
 - **API:**
+  - [REST_API](https://github.com/DSP-Labs/docs/blob/master/client/RESTFUL_API.md) - client restful api
   - [REST_API_ERROR](./RESTFUL_API_ERROR.md) - error code used in rest 
 - **Network proxy:**
   - [Proxy](./PROXY.md) - proxy for exchange block data

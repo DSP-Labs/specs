@@ -28,6 +28,7 @@ The specs contained in this repository are:
 - **Networking layer:**
   - [P2P](./P2P.md) - underlying communication module for the all services
 - **Naming systems:**
+  - [SCAN](./SCAN.md) - Simple Content Addressing Node
   - [DNS](./DNS.md) - Distributed Name Service
 
 

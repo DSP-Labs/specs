@@ -30,7 +30,8 @@ The specs contained in this repository are:
 - **Naming systems:**
   - [SCAN](./SCAN.md) - Simple Content Addressing Node
   - [DNS](./DNS.md) - Distributed Name Service
-
+- **FS:**
+  - [FS](./FS.md) - underlying module for file storage
 
 ## Contributing
 Thank you for considering contributing to DSP. We welcome any individuals and organizations on the Internet to participate in this open source project.

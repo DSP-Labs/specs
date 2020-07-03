@@ -55,7 +55,7 @@ Interfaces:
 Service mode
  1. Transfer: transfer the ownership of the url / header, the account with ownership can update and delete the url / header
  2. Update: update url mapping object path
- 3. Delete: delete the url / header. If a header is deleted or expires, all links named by the header cannot be resolved析
+ 3. Delete: delete the url / header. If a header is deleted or expires, all links named by the header cannot be resolved
 
 ### Inquiry service
 Query the mapping information, owner and TTL stored during header / url registration
